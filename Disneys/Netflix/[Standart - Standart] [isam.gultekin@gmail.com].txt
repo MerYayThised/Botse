@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	TRUE	1704137920	dsca	anonymous
+www.netflix.com	TRUE	/	TRUE	1686858006	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1701114026	nfvdid	BQFmAAEBEG98K8mNQcwD58-pYV5uH6pgghx7ijjDZ7OKWK9pQNJM5kZCFN4dIuh_kwznS-QYklqOD7flswLHmitt2GAE_eJAjAsJLF4HPOZpdphvyb0skvWKlNK3lbRNv5TBKTVDx2uP5bE9PBs0aYUO7K-u0TB2
+.netflix.com	FALSE	/	FALSE	1704572860	NetflixId	ct%3DBQAOAAEBELtBxddIJcquR1tqqFce2JyCEFGfc7BP0tHMLryUFhkxOASSW_oC5tEFTu8suKK5um6133jyq-O3PabdRAi1JTUFnjiPMpq3vvvRfyottriX0AhFSdFo2VUcvMcQrVr0Z0pbmsU1uTnYToruApOZL-HgdCgCwJfitaQdGZboQDK3nAEsM12QZEWC8sXeksTXKku8or3qzqnav0wlPtaKxDexxmoLn_LxVEDa1BKv7o5GQwywi723UNka7fLg_qB1QVjpFQuys_Aka1sZEJLMOxTxpeiAgUDGLL5gdXsd45SEmoVVvoQ2n9vakz6eaFEqmBGRZkoPaXLIFewGRa8L3skN_plDOV1qbbOUXUjF5-wpzXyBUNxrY6jzvigwCYPrt-YQSXTYVnXN6xHVNYpdsgeqHFBh0AABwL5KiJetVOA-TtBfQ0aEb-DTWZff-1xTeyjzTmR-a3UCdoLGEyFy-3qDQAe4d7MblwnjoBenIAiyKPxHD45F9hBT0SFAQep7X5q8Jzo6YgfbbY9QuVXHL_e6qC0-dKO343BU7ICylE-C6CLJdDNS4qo-bfnH9e1a-xo1EJwDUmfIpncEo7u_rmwxi0DHS9A_CoThR0e2-TCjHhbiKWtS4qs2JtCmZkBsIfre39RZAqTzPgjIWUGRarbjlTtKaPNsTUoXOrzvsapfJWdYm_oXPbjkKTA4b7jU-TmzGd3fWiTtfyERib5QXQJHDw..%26bt%3Ddbl%26ch%3DAQEAEAABABTuEXaZLOBS0vAvbp85uE4-4y-Ww_oAUfc.%26v%3D2%26mac%3DAQEAEAABABQc2LEor9kh7LmFsTipE0yclHblWm1GvME.
+.netflix.com	TRUE	/	TRUE	1704572858	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+07+2023+01%3A27%3A38+GMT%2B0300+(GMT%2B03%3A00)&version=202211.2.0&consentId=362f6fd1-0589-48ea-adbd-dd9e629ee122&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1704572860	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR3upHfD4iaiuV9Arz-p3STgjtppmNO38U.%26dt%3D1673044097787
+.netflix.com	TRUE	/	TRUE	1680812871	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1680812871	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1704577630	memclid	96f9c764-b420-4b6e-b624-3285d660f6f1
+.netflix.com	TRUE	/	TRUE	1673044960	profilesNewSession	0

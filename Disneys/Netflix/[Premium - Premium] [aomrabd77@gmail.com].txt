@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1717786253	OptanonAlertBoxClosed	2023-06-08T18:50:53.416Z
+www.netflix.com	FALSE	/	FALSE	1703530257	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1720810253	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1717786749	NetflixId	v%3D2%26ct%3DBQAOAAEBEI2fG3n2k8wi45lpRxaJeLOBwLOwukQJ2uWnXscjNZYZmikpucG8N9rAGQLDSiAtOg2lB4CPrwEAi7ba2-PBbGRUEZUnrN6DSBw_jkdopPc-9VI1JMPiROHnrzfGmVmPP-LH2TIaL5GxisQ3pX3S3gWjv5WtPR6EZVf8AhKHdF8nI-bYbL093CNHv3AxfOR5vjRuA71ZWksBPUE4SQrpLtME0nXbXtzm5r7giaL9RtH1UcF2ONB-hQk9Ob90g07At08rDeiFAIBJImKdy8bQjHiXJ-0DLZZqFT90LR53bs2LHrQrFGdUNIbSJ7ZxG283csKhpPzVwlAw7Pbpin298ID-37PVQgmD30kHK-U-IX5tMtZ7_N61Ra_vyaTuDlU2dCsKOD7UBiMk9KERBOm8pSGBuYOhMkzF4oXeRHUZ2nbrUxkBAiP3DsXn3nDIRIrBjCu5-ZNGox27CQhCzJpp73zgZEpv1FoTbT0s4l8x_wxvPMeyAGfV1BsyZ8bF92GhjW6THbM5gGekuG172rmvfpMz3aHJ08jjop6s3rZ1ivk8wYucCRpKhIMO3Sq11tS24uMwNitqjTpPsX65UBPHF4hmPvnNhOUVAEJagcGk4Lotqmg.%26bt%3Ddbl%26ch%3DAQEAEAABABS4DAKFzWa9CJJjCQOV8hvhn4U1RgLxiiM.%26mac%3DAQEAEAABABQr4sSk08GvyNXHjk6PnCn-JFbMzbjOcS0.
+.netflix.com	TRUE	/	FALSE	1717786749	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTp4D36aRAFS18DXrq4AUuhd8h5aAxAdQc.%26dt%3D1686250748315
+.netflix.com	TRUE	/	FALSE	1717786749	nfvdid	BQFmAAEBEEQMJrDDTbl_OpZsOAjGY0JgrvgT0VCHLWgUEwt9sWaCCSK_OcSzALqYKZl5pYbVUihRij9mqCTat_QSSW5CWqsK2_ToIOcWseqgJsVKVDbHaz5smw8Qj1MxSajnMM_pFC-t8sJ_4kC4czQOAx-F6qkL
+.netflix.com	TRUE	/	FALSE	1717786786	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+08+2023+11%3A59%3A46+GMT-0700+(Pacific+Daylight+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=59218fbd-0779-408b-b681-a3730d1abe25&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=TR%3B77&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1694026786	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1694026786	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1694026786	netflix-sans-normal-3-loaded	true

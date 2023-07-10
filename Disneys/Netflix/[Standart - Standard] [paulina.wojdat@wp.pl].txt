@@ -1,0 +1,10 @@
+www.netflix.com	FALSE	/	FALSE	1690968011	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1708248011	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1705224019	nfvdid	BQFmAAEBEG1C5aw1VT7K7CUDpPh_bg9g082c7OiZgacaXMpHF1SsGqO5_iP-A-JKGvHKb-HlZuoPssFHowrUjKspViT013EHLMr93vCCZ5-yIOkJCh6MRnliwxKWuOvN4xXEDUHz10IfqdNQZ4fjWSAKDu7BtVpG
+.netflix.com	TRUE	/	FALSE	1706104246	NetflixId	ct%3DBQAOAAEBEBEGZnxZk5rAJiEhZoJxiBmCUDDoBcHpP2h8jwAED8rC0RZsWj8hKlrA_kZbWcdw1UZm1r5uf_ZkObYRKOFCVgHNXaAda0vUwTlNI7phbz30BjhQCkDnYR1e2L-G-yixPTodWUhju55jR6EjohqagPvIoxnktoy46YipD9c6urQvc6sa2dAgwypo4OiPNQxN28Yt2lCuwv4FuXwcmoQsfS8_Wiri8806VR7SD-L3fObgsm9pqtTFws0poPFQC0PCagaSZr-gW2XLUJrYEw1l_GuBWVTGpS0LejdiHen3CzZRUegBVRiQ6NxlHgZtzo7jN9tRmjsbLGgOI6-tXrCQ0l0GTO8t8PSgjEDgxgY9p1FgZ9iVsOEgY2KZqZc-2d5mFuy9SnQLHgjl10l-A-NLz_AiuC1tpPzY1pS0Fs8rjxfXqZ3Tz2fcy7EjoMnqGPg5kwyRbsxVflvx5wPwLjoa9HYexpo-SkHsQjPWdze8YpD43Os8u02yH_kp8nsIIaOqK3PvlgrsdcepwBPytoE8WjhypwHYRdlDmUXsV6QWdOX3binkoZIxDTTILw0Us8gAv51cdHEgVi_e5vVGllifITA1w5tb_5UQMLtXrw3QwaJTnYyBLOZHnsAQaBsriuaH-ZgDTHGcNW_1mY5YDswosEeVUysInGv9ElvZKI19uCtb-yeie7z6tqTd_VW654Dy-FASRVgtrIETvHviSmHDC6FkFYqQlECfC3XjinBEkYwEaZKvBAz0s0tQD2SuglQ1F1fp1GlMLrAwP0OnbAnwFoG5bhqBLQRl7Ht387fMGRgT03A.%26bt%3Ddbl%26ch%3DAQEAEAABABRqUTEtFfm6N4UxQ44fu7--qQaIJKFBm58.%26v%3D2%26mac%3DAQEAEAABABTJQVZIo-R8jM1Ly50q7_K5B44980N4HOM.
+.netflix.com	TRUE	/	FALSE	1706104246	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRVH8QWoH704nEmmgk3-H2hbp8NhTIJZGM.%26dt%3D1674568247831
+.netflix.com	TRUE	/	FALSE	1706114506	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+24+2023+17%3A41%3A46+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=6e399cb7-5c26-4285-89ce-1cda3195f8e6&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1682354501	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1682354501	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1682354501	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1706114536	memclid	98ce6ad4-d8a0-43d9-b181-c495f3adc832

@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1645131323	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1645131323	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A62.9242%2C%22throughputNiqr%22%3A0.8000938125064455%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A92.5517%2C%22throughputNiqr%22%3A0.16738226238322407%7D%7D
+.netflix.com	TRUE	/	FALSE	1652000790	flwssn	6df76cd8-270b-40e6-ac2b-53d49cf86f3e
+.netflix.com	TRUE	/	FALSE	1715061991	dsca	customer
+.netflix.com	TRUE	/	FALSE	1683525995	OptanonAlertBoxClosed	2022-05-08T06:06:35.243Z
+.netflix.com	TRUE	/	FALSE	1666293016	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1705279056	nfvdid	BQFmAAEBENLNFAQ91QP5rSb5EAsXW4pg7cPDZlTybUKKv4F4irIntn1E-L8RCImOExwtXTxqLxEBoUbbu7aFmBwG9oQ61P4POTe4YatNVaAjFwsSbMcDTRLKQNQWnXg7XEw2UbEHIeCX962ClnXJh55UBfVzZ3G5
+.netflix.com	TRUE	/	FALSE	1705279058	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+14+2023+18%3A37%3A38+GMT-0600+(hora+est%C3%A1ndar+central)&version=202301.1.0&consentId=9bea3ebb-227d-4cf8-8123-ce6a1493f8c4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=MX%3BVER&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1673745055	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1706839486	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQ4mT-fqQpyMM9A2xEItEu6bebnUTsYCnk.%26dt%3D1675303486285
+.netflix.com	TRUE	/	TRUE	1706839486	NetflixId	ct%3DBQAOAAEBEP3drSX7kqZhoJGrZHKkxDGCYPWR-k7GmFjtuWrsaCF7FBOeZx8ZVyDcnFOVFB0CBJdBqc9ZBqjvvdRkbdyL5rW7n9v0Rl2EiIKnvREf_PneeOR6VtoBH_AeW2KkhCurYMOdq4Op0iB0Cp68yGI7ZGDBJB5vQeXLIkJo3-4Law9ge-Kmgyuxawddrjx6Ast88nArpxiWytC4Nsm37VU7udosvfRV-Md0Mf2jPTMZ8n2dbUS3syUvq_jQNfs4DEqd-WKoxbWWhymJV7xQedVVba9gdM-nyNp0OHZo_MiugCMNmbdq2E0WYyMrDLjyIssdxBzcFZ0rsHUYX-KFIK0HvLKDcVPuOmFDpSz0e9SM2sXCMhAtbZsRCVPdrbxLoPcaYb7IqP4FQDo6uEg2fChy55DD5rQ5CCNImdm1JCyoB06_651S0HCdOQ1y84ZWA7E3oFiMZ7Fae16gzTq9r8zN2Bo83vAo1zpBS2wkCgRzA0MSYpGmbcUY3AsvurDK0RKPqQm6pZm-uWHknsQGJw1Ds6rI3ijh4G_kBSAaN1LOaG-_W2ZPu8mDZ7c2NPUx2HBpIMRzN_Q7RK3d9BVY3y_1zlUKM9cvfWkwzbekRxPWe6-iLxchHZ8b3pD37KXfyu408u-tzzyzE1l3b2dUtiLy600R8e32GqqZW38FoxE7mvWzibxroRHcNbHj1kzROJQiktX9iqq7JHV-l_UHQhnJ38DJjdC4x6Nh3-Yx8BPwHZ91hE1ruz9IfN9WE-pMyhdCklo4gre0fEVqL-PTCAddYZAjmQTKKZTu6YU91iiUTah8rT6ksEEMmetoiR3MAxAvvSDq%26bt%3Ddbl%26ch%3DAQEAEAABABRKnx3SVLgvH6fXfdZiR2aj1iPy05z2idc.%26v%3D2%26mac%3DAQEAEAABABRFG_3K6lSyBFpF9tmqUQs_kJXGu_4UCq8.
+.netflix.com	TRUE	/	FALSE	1706839520	memclid	57b409ba-abbb-4dbf-8ee3-29e8f87aa4c7

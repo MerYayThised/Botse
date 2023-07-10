@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1705424828	OptanonAlertBoxClosed	2023-01-16T17:07:08.275Z
+www.netflix.com	FALSE	/	FALSE	1691168832	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1705424838	nfvdid	BQFmAAEBEDm7ixzRjnN03ne6hMAYSgZgItntyxILOtfVUmQY6RxZRLJzKwjIAmD5MPVhS5-yXCT6in7TiU6U7Jx6A3K42H3or7SgOWQTzALjopsBweNEJKc_KrlQa1lhRq9ZeQHa2EE2KbTrU5sFcuSvmthc42cy
+.netflix.com	TRUE	/	FALSE	1705424846	NetflixId	v%3D2%26ct%3DBQAOAAEBEOFGBDYl3qdC5tPrK4vn1USB0CcliwdE7YJQpad0dG_9yZmNV1VQOkW3-JiI_0oi1bxpJVQpp6FpzqqBGgjFFwwmTeZTufX9cvVqXHK5-TpsrZCo7vXEzPGEBsaVitZ-Uq4tctoLllAYNwQavspfcRdbm7rL9leenoOvTXLMPefmgaj2NR7QzrDa0BYkkCwDuGV81Z0ryRYMjy-lBAD0vf1zbbJYXisu_JkktdhkJsQH1uhaJrsjM7dhc_fSwXPXBNkWPsBlBZcKi0Jb1aXoUO9L0ZTb8FtdFzMvAJf2AWHrd1F7t2M146XHRbdhTSSrzCJs8Uzs9zhoKz66AG3bqp7Q-_Azgpv34BWb2pws-sOukI0I4qF-fFcFwRx4Sdm3nImKy7U8U88hDfDnPz-XIBy-gOUNRNJeHy-gkLMPWPShtkOxhWJIxgkqZVdAQBWRRQv00lgG8xnU409sOUEeSeXUqHKq1T1TGIFh0Fdz5TXuQHgXAZwuzAvPUk6--T-UbZzd3PbcaKHR61lNctH3csoRfoKwQXj4bGEd8memndoZUlV-vfJ4HQC6053z7sMY9S_UpCw3-abq1a9uHYsu0pU4-D3Ywq4bvqOl_Kx0DH7oA8bk6_Clu9eYmaunhOVuMT30%26bt%3Ddbl%26ch%3DAQEAEAABABT8oVUE7SYUGl8qWJKvdkvLgHllrW308gs.%26mac%3DAQEAEAABABR8OB5iNP34KUnqVaLTFZO1NNMFlBYpGQc.
+.netflix.com	TRUE	/	FALSE	1705424846	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR3yxynkDmArz3UZ-GQEzwmv1icoxlsugg.%26dt%3D1673888845184
+.netflix.com	TRUE	/	FALSE	1705424971	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+16+2023+17%3A09%3A31+GMT%2B0000+(Hor%C3%A1rio+Padr%C3%A3o+da+Europa+Ocidental)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=624e55c7-8b59-493e-8bb1-19e373bd8698&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=PT%3B11&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1708448970	dsca	customer
+.netflix.com	TRUE	/	FALSE	1673899770	flwssn	3ad8d810-26a2-43da-90e2-12657ab70016
+.netflix.com	TRUE	/	FALSE	1681664971	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1673890804	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1705425040	memclid	aa0d983c-4d7f-4070-9cf5-f11213da4073

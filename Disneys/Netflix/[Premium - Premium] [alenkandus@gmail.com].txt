@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1699322546	OptanonAlertBoxClosed	2022-11-07T02:02:26.381Z
+www.netflix.com	FALSE	/	FALSE	1685159671	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	17041374132182690	sawContext	true
+.netflix.com	TRUE	/	FALSE	1699415744	nfvdid	BQFmAAEBEP3fYGAQww2ut74WQrMACt5gNiMovDcgL00yQJZ7Vrg2594R_qMpn3-39-Zumj5jgFcG1Ao0813kTZwU0KU3WEFOzxfunlTTOqjiQtwGqzLfwY4xYHeeqLrtUk6oXlLW2z0ObCtJqZ3nvpHlmCPKnSp5
+.netflix.com	TRUE	/	FALSE	1705947861	dsca	customer
+.netflix.com	TRUE	/	FALSE	1704070024	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jan+01+2023+01%3A47%3A04+GMT%2B0100+(Central+European+Standard+Time)&version=202211.2.0&consentId=220775bf-81d3-478e-9fb6-0db01730578a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=SI%3B084&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1704133268	NetflixId	ct%3DBQAOAAEBEFweGDJmqyXdYSvgeNkgeuOCYPof5rT8bSQhuJNxrMHcn4bmyT5s6jwm71g21xP1bnP0SG-1xjaW1iM9N3PbRBnpmJETglNgjsv5OBQVcAp6BK-NeKBUsLAMPoTvicBbbHGEw4M7G8M6fZa5m0VkTk_mw4a6RJ8hHdKUh0oOhCLSQSh_mlj_QrnO9xLjvl_ToGp9HQh86thpGLvmBqjEa5gP_DJAsgGfAUrm_WQgIHrbQwmvIkgXYCkukU0A-yeoDQ0b5wXDargomEgjR56ruQFw4sUM9XPQHk3bGVQ713RC_lxLVpnibjeSlcx1oEeDbEM9rZptO5_BjC72hScECM8yFOAYYv8WlzOiujN-ceE1opSizhqEEzWJkRfbnhhzXtFM00FHH1IaMpiemlRb7jrK_qwiKesB8GRXMERwWPNjP0rHI1TMXMyXSfjYHT4D4zBOomnwQVtJ4T_JdgOEMOvgXAETRrUjnJ_zmzoHnQCVUKdHWeDBKLlbjfEhtKFAgGrmyMmigbaMbT5mqVGVtvVPgAaFYpNRMIZ8Ou71xYnI8NP6KAFNgopSzsVyu4hnSYbX7Vx3fxG5Os7XfJTzf6LWMeSW9LmdZTQhdxyg-b9GTUyVNhMcUXdpMaXa6aYvxyFHDBptcZMUjLWvxv3Ji-sIKv0Y3YMvfiP7dXqKADyHadsl0wRop9hCrM8CMNbwXSDB2tIXKTkqSUff2LrupwBbsWQgvuE8jKfG2KaCUoXMpSTmRTG3NPN-pzkGPKhRele1xwtq8-xezUda-cDocZyD9vjjC7l4Ibqig3sS48Rdd8zXJx6hxCb2sVonp-_TFU3-%26bt%3Ddbl%26ch%3DAQEAEAABABT3qSmGZ_j9ByL2c8axal2pOfNN7DI5gkk.%26v%3D2%26mac%3DAQEAEAABABQFcDFywk5JteKsUDXvc9kb98fAJx4aPC8.
+.netflix.com	TRUE	/	FALSE	1704133268	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTtABiDZgZQIJSXOV-ynOFwAr1LAWIEnmk.%26dt%3D1672597270721
+.netflix.com	TRUE	/	FALSE	1680373292	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1704133311	memclid	9cdaa637-a74e-4b61-ad77-4f9f66172300
+.netflix.com	TRUE	/	FALSE	1680373292	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

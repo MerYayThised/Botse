@@ -1,0 +1,11 @@
+www.netflix.com	TRUE	/	FALSE	1671923226	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1671923226	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1671923226	nfvdid	BQFmAAEBEJfwWFBLg-eQlSbiXkCDHjxgPMaG9AEejSrtLvKfXrje5qqF7a8Mtxivx3tUQrmrePxv9dIosV66s-bgrqGEgwtsmRPRn1SDwEbeZ_XYXzQvesCEfu5cR-MqeLurrQ3YH8bDoJ6BCuSTzgfI8NUWjbgZ
+.netflix.com	TRUE	/	FALSE	1671923226	OptanonAlertBoxClosed	2022-05-29T21:00:47.704Z
+.netflix.com	TRUE	/	FALSE	1671923226	OptanonConsent	isIABGlobal=false&datestamp=Sat+Dec+10+2022+22%3A45%3A45+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202211.2.0&consentId=dac1cfbe-b1c4-4705-9df3-fb52f0f0b594&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=MX%3BSIN&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1671923226	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1671923226	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1671923226	NetflixId	ct%3DBQAOAAEBEOL0VmUxJMx6B_Yi-UrI-VmCYANw1Cv7bnX7JykM2ISYTu-JDkZrwH1map8EhGH5_k7anZuVrltejqbIfT0aFiNmoI-kxlpUpACe74wUDGTjejBVRKrdwW_YPWUBNMvTp7ObNMtqUL1s8ncarwSCCLkwQ7-vxO-VpfsGPTL7BSJBhe_OLw4ccgj8dumIS2AMYfYZyCRmPApRdHTwY4HYMQ_hWEQoXTe8ip_E-rWPNvS6DBCagzWg7B6jnMc_Lbu64hWjJ2zMMYCnOjVAAwUFs49HGHJD7y5nxZ9BQ4tDy-0G24-e6I5hQVlKeejf2uaMeS_TeZYdjS0janIo89FPQSSgLqK-fcUKs7N4Dbytx23oPwwy1vT508DrL13unyOtrRURPCWVYYd6MpGThHcOtj6SJ-RYpoi_Puf39Dj0zYTcnFhrl1GzDSxZiqbPQ-E_fBCfSMY44HItc2v8NuPauA0JP6s60cwNlo124kvvNt2HekvQZEQgRN8FCQFjN6WbN9By8Oe3kbaHmOhyuxNZ25FYjra-ofHPGy3dYB0lWesniU7ypYHh3c2iuLryeBsAedFqaxebw0lyfILflEoSQvQNeXbpU_RdadUyeQ3wiugJZvF6eIXvCoxEU1cysxhGLrEh4ZGw-5FORPaZgwp4BNNiKCJ51IahUUIjSjlCXbXvIp5t69lX0HOtUCSiEsBnTvFha-HlZglDbPuunuuj5Oprs8nnxhv8owjj1yswb1fBppJbVtL0a2BV7NTTUKVgooR-yNk9AWlBlSuhNQzIXUZmwGiibazPBPZZuAfThDBLAAx0_eJvRq67eCiQmKsbGJ0k%26bt%3Ddbl%26ch%3DAQEAEAABABQZYdUSC5f0w5XH_AzR1AQMq35Dj7twScI.%26v%3D2%26mac%3DAQEAEAABABQjB7_1z1I_lNYflMGSgtHjLXf9BdKJLYg.
+.netflix.com	TRUE	/	FALSE	1671923226	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSk9xlPPqYpYvgPLJtXzc86QkAaSP8-SaY.%26dt%3D1670805342665
+.netflix.com	TRUE	/	FALSE	1671923226	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1671923226	memclid	0c273573-19ab-4608-befa-3e42558b9e20

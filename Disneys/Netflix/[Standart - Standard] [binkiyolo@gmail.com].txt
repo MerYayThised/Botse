@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1675041428	memclid	bdcdcbe1-d9b2-4d1c-8650-0d2805061800
+.netflix.com	TRUE	/	FALSE	1681856817	dsca	customer
+secured.netflix.com	FALSE	/	FALSE	1680950930	thx_guid	40e0370debb24834a02b9b9d29e9cb4a
+.netflix.com	TRUE	/	FALSE	1650279010	nfvdid	BQFmAAEBEM1yhOWynFGrugCJhUcc41FgopDX6tmA26FgH51WkDJ2VRXNdKP72T_fUb9FOd-RoPUWgK4P_ObmvQ868xdiXN7_dqQMAvDSozPb8NBei-LZtc1ILU3vjKPpHsUa3LKCW01-ocJa0-H65DZEnVZFnx9w
+.netflix.com	TRUE	/	FALSE	1643507688	flwssn	533cca45-aded-4171-98e4-8ce7da1db018
+.netflix.com	TRUE	/	FALSE	1643507220	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1675032892	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+29+2022+23%3A54%3A52+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=6.6.0&consentId=9c3e0fa7-9e45-4a91-986f-1fa2d416c6b6&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=PL%3B14
+.netflix.com	TRUE	/	FALSE	1675032892	OptanonAlertBoxClosed	2022-01-29T22:54:52.877Z
+.netflix.com	TRUE	/	FALSE	1651272901	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A12.6846%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A6.02907%7D%7D
+.netflix.com	TRUE	/	FALSE	1675033499	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSn8U-SeIcckhxPw6FlvKz1_1qZZJgmpfA.%26dt%3D1643497500073
+.netflix.com	TRUE	/	FALSE	1675033499	NetflixId	v%3D2%26ct%3DBQAOAAEBEDVMZcv0mZ3kFt4X-JaTuvmB8H1YjnSbrNC5_jX6k6ef6-LcBdkuiT7-9bSDcaROyfARuUngujskumBFRQgDpG7XP7Y921jmn4LObz-t9-plvUuwaAT5HF0Xer1ksuIgVWiM7ZJSvuSL7omm2bGFqMM6VZ1MXNCGpedoKYVjXFI5lGlBSE9JoKHxGdtfwWKaOAtOU1QbwtJLiRptMa8sExMPZpTu5F0lecIihFZv6KACsOQQIVzyMs2bOyDSpNdggl78l5DryuQoXEuBzRed28A4R1DSrSRQ5gNnh_WPdM5yziJ0GuMpG9ac6UmnnxtSBIyEpVWyZNEpqsKVwnkRZGmd4YEk6qn7dMAxhLf8udtaDbdimoC5KuAYYjtr87ZhvD0XqEjJPpjJ6NJL2Gs6KMUok2wP50Di4yZ4Trj0q0ivApfPz90ARoVmt52r1bUHnEF_ZOm9UdcDaGYBeOMmZ6sZmAI7d480NQY6mHZSbjR_IX02UTnL0EKKqqspScRWAtZfznI1bSFen9yjw_dIV6-bBwjp9xhNPPVKtp3ptuLkMKqtuVwHEAry5WXiPZag7C9CB9eG0teiYmcTdrdb6lybDJt2v-V08cSBT3T-FK9-0BL4Otjou803MY_vLNmCZebTRpT4S2_9XZ-ZVjGxiK-crZNXBCMjM6-Thi07SINdzRc.%26bt%3Ddbl%26ch%3DAQEAEAABABT8a7MdSLIAGAcs8URIRqYMVl3vmbQr024.%26mac%3DAQEAEAABABSewFumiAPvhg2r-1fmjHSONtBLoZQ1rf0.

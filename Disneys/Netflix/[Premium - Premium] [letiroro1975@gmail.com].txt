@@ -1,0 +1,12 @@
+www.netflix.com	FALSE	/	FALSE	17184846578112959	SLG_GWPT_Show_Hide_tmp	1
+.netflix.com	TRUE	/	FALSE	1709831132	nfvdid	BQFmAAEBEDqnWnOBZj1DCINWBCuHIiJgDX_ksA-2_bn13oRIV08PcAoCr6zaSn2dEaiP3V8t-e_k8-yNugGgT0mMLhv9CqcZk_DUMRVeIJ0Qupu2dwrtp9dEzdBnU1MPIdF7aYxqVTEtnUEkwTGGf1w1pbbejJg_
+.netflix.com	TRUE	/	FALSE	1710305001	memclid	01540277-1715-4ec7-83ce-efd0fa1d3491
+help.netflix.com	FALSE	/	FALSE	17184846579839251	SLG_wptGlobTipTmp	1
+.help.netflix.com	TRUE	/	FALSE	17184846579839251	XSRF-TOKEN	f8011e9f-ba04-4185-8f4f-2fcbd4ce92e2
+help.netflix.com	FALSE	/	FALSE	17184846579839251	SLG_G_WPT_TO	es
+www.netflix.com	FALSE	/	FALSE	1700354043	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1717634055	dsca	customer
+.netflix.com	TRUE	/	FALSE	1716229009	NetflixId	ct%3DBQAOAAEBEI1fNw8O4aMgc5sLGKxVbCOCUBd4BY7XGE7NQdc_nfdguwpKcZy3KVxzlOUs3tH7XGNMtkFAIJxLV_y7Y3-hDEHDALHNYdJpUjDX3O9xoApE3wRzwwC5l4EhoXpWRzsqiOuw4DuGmnOqoU7CaD8ymnRLoUgV7h6pSZbA_vy-f4REHAlgITeprW7LR0wPQeOCuFHepYL_tuHlRR1oSdrro2ZJ_OY3n0lh3-MKEPIahA7MdaRs8fizxzCX18nLt7LVQ2p6ZPAyNwjw5Y1VCpCfZfmkNKlZlxFi1tAQQg_IExG0kc8mNEe9yGEvpxi6dgjjxYoaB3ny4q9Y7lAK1tYsVJpqdKrLk-rRYoNonAYOmyr_PUiol_Jkdml1mZmyKCbJ2xHtw_rWemTrDbHDeqjnhhCx63tTrB4E-CWCcMRKGGjseG4oqArkDG5xcDhwCB_fFfU6NUPZ_3DmKhdWrm6sVPRauXa6x8IHVx5BQsB6u3rRS0fQqaji5VrSCv95r4S3_9IzkUp956d1AxsxTwAvcvu_Hbn3zauZ0kDrY5PsQGmPI0lKeNUVdC8p-K0UoDTo7galYI3joN0EBiglMvyn1BwVkAM9qNNOC1B-IKaxFvnygESNpcLOCLMbxPNaGJgPFNz3l3Bj3gejxBxmyqncFHTgxA9QBBbrgOYbi2IzY8xym3uU5dZtM55haPNpne3DOqFUPMIFfmnV-Rgosr9aY0FHS6YH1ZJXHDOdLbdEPeJ0_mmf47N4sng5uVxZ3npDhRsvCVKlf44QBk90a0Ph9ClHoHakt0l7Jy5m3JSaF5Rr8Xc.%26bt%3Ddbl%26ch%3DAQEAEAABABQavPTfS_IJsUncoWHq0omwXb55wh3vhL8.%26v%3D2%26mac%3DAQEAEAABABQpUfGz8O7na_yEFaDjTSPgDfo6748x7tc.
+.netflix.com	TRUE	/	FALSE	1716229013	OptanonConsent	isIABGlobal=false&datestamp=Sun+May+21+2023+12%3A16%3A53+GMT-0600+(hora+est%C3%A1ndar+central)&version=202301.1.0&consentId=fd338d88-ef0b-4d85-8ba3-02a3afa9e667&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1716229009	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQqKMaP92eN1w3wD6IIqLjm-xOYLYtRKjI.%26dt%3D1684693009931
+.netflix.com	TRUE	/	FALSE	1692471464	hasSeenCookieDisclosure	true

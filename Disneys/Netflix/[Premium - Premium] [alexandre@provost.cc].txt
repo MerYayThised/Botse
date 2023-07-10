@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1671918465	NetflixId	v%3D2%26ct%3DBQAOAAEBEGcHWJp_OzkMkT_14xHRQEGB0IopYMMuxkJ7jHldhelDWGRcS3NjPP8ecR7J_RuO0h7tvuNNpr76NBt4X51vP-lGH5Bm6EUdSN3ur_IqA5KR5PhnOxka1joxJ8EFqgPCHXnp8lXE2m4OHbN1NVY7t65lrL55KJjjdJJajRmWQ0oDMU5J_qe-yrLrhzgWr_aK9LhbFqBitanClTSAzpASWKXbqjy16cz4hdvmqpo4UTxgVuXsTgTNF5BxBxFwRAN9C-TBL64B3op7bLpQEsNv-1xb1688t01cLUumkIL4TZaAnOkzMNZiZJo4LK-t68z0Mji9ZRGc3lfVSROUp6RBdKA0cnr3LjTFYPFjhQJrHENejMbygvwiRCFtKGypR4unOQIoVHKI0PudRtC98dAjK5KK5E4uSJ_5mKECvyScbweC-6ERW8_MNgqJyXaw9hiM94jYbEc-p6xwR0KY8zwSS2EUN89ty34BYf-giHNC8WEAoWEW89z385tjjqkFOFVQaVH0LdyJiCybg6MBF91cXcVmQGTl3u_EkQlOOdqdQbEI6LSIM0oGcbfnu_tOA5mN6L1P5dDBulXCiXyYXRT6MjM07zkwBLPUryinSa7Vp7O2NS1wf8GByHCmNm_22ogvhFdB%26bt%3Ddbl%26ch%3DAQEAEAABABT8A2cRl5Q-st6VVQtQxSr6kbyJAxeuyLU.%26mac%3DAQEAEAABABS6oNckpTCfhfc43NTpa78s4gi6L7xyTBo.
+.netflix.com	TRUE	/	FALSE	1671918465	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+17+2022+20%3A25%3A34+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202211.2.0&isIABGlobal=false&hosts=&consentId=6a068c50-85c8-4cf1-aadc-358db5377bcd&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1671918465	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQEzO_gf_nOorAhb1G99hzK43R_V5pvsgc.%26dt%3D1671305129101
+.netflix.com	TRUE	/	FALSE	1671918465	dsca	customer
+.netflix.com	TRUE	/	FALSE	1671918465	flwssn	aefce396-a2f3-4865-913c-a4085479e272
+.netflix.com	TRUE	/	FALSE	1671918465	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1671918465	nfvdid	BQFmAAEBENgHHuIZw4fF_tS0yEnXpE9gGktcW0QW3n2itnjYUqRcsprSgnydacvP8de2sOkTCBuyNQ0251cLE5f1-3l_K1SlWe1REHdO4J7PuL-f4Yq9FHeTO5auaBcaYX6qY2zLVr5kReVrEkU-mbEjOf3osWdN
+.netflix.com	TRUE	/	FALSE	1671918465	memclid	bac825bc-19bf-43a6-a12a-afd30644e01d
+.netflix.com	TRUE	/	FALSE	1671918465	profilesNewSession	0

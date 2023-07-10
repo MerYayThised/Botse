@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1710031579	memclid	d320ac96-73c6-40d2-9fb7-07a5952dde74
+www.netflix.com	TRUE	/	TRUE	1698110683	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1712366708	nfvdid	BQFmAAEBEBCWh0ZDPH4ChJDLFBhSDplgfo1BM4CcOSptnIXUBpUqRyjQwkeTnlIDk7w2HKkR-6JKGcvdBiuDF-RWMEJ1TwUdF7U1DqmCoNPcCSN2cvpA_oo_04uuoV97NO8Hftk183gCf6I-1Mq09FMExyAm4mbo
+.netflix.com	TRUE	/	TRUE	1716697335	dsca	customer
+www.netflix.com	TRUE	/	TRUE	1684192181	perf_dv6Tr4n	1
+.netflix.com	FALSE	/	FALSE	1714790008	NetflixId	ct%3DBQAOAAEBELOF6iRPzBomikQeVG8iUDqCMOsLA3SBQ0DpLsQtOZbPiH1SGqx_Ehl1n9nyYPZC7hOdesktGy5c2IVtT2Lu5uGo8FrjN2djY9p3-fOEo1yVQqIPVpymNYJaHbl6HWs8XR0YWohIb-FKCcljMHteMhK7xUqaJ4dOQa7XSc3oNj5BE3rrSRUSkNhyaSnxu3FiIA9xLle6eGgM0Y7z2zs_ACMoPk-MSMMA-uTF7hb0wR4rJsgqoQDqhM3GtpSuFDTXLDFV_XcIFavZQl8lkHUykrDwFLRJRs9ojzVjIXD50OUuZqH3XLuK_a_WH6HMrjD7CDZseUFoJ4-XJdogHHhoNMeySVMjE6S6Z6pe2cp1aX6ik7iEGi09-Ro-HcQfMO-6cX8sEB2J0drM_P5m1jUX8DXp4nQFQ1t-0x2P3mi69Iixa2d6bKleCD2_hzJMQ9Z8hSEyxVQ2ITiSHYpAztDZUCI7iFhj4ohfvGFVAh0yGabUd1-2PLyRBP3gAoJ4ZCvxecYbZbp1__R0_wp3j8Jz85kJlb6mZmxohAlyE93Qf8V8oA4z_yYN_4E_VT45FPdnGeRbM-nhimiqa8kTD1OASHWW95fh6sHL2xp0O59Ugytu5t_EDXEmlvyjLgSybg6pj1RGfwiW_PPujerVK4c6vzFZtCMW1MQdxZ9tcOfiTwapo-1kr62HyWvw6D5_KvqverNaoL0BXQQkCKw204-zfdE3F0xBWBdDvnOUyQzpZPn65JblEt8ynMkmrfemyZPY2Q8q%26bt%3Ddbl%26ch%3DAQEAEAABABQ3G7GTkbGdg6ytB12GhVWYuflnsME5aV8.%26v%3D2%26mac%3DAQEAEAABABQIsfniW24fBS6gf9bAC72mtLbzVWEsQg0.
+.netflix.com	TRUE	/	TRUE	1714790010	OptanonConsent	isIABGlobal=false&datestamp=Thu+May+04+2023+22%3A33%3A30+GMT-0600+(hora+est%C3%A1ndar+central)&version=202301.1.0&consentId=0a51275b-76e5-4c6b-acf0-b061ffbb28af&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&isGpcEnabled=0&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1714790008	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTrd-fTi8M1agcTLeyplKxa0dmyOv0LQio.%26dt%3D1683261208469
+.netflix.com	TRUE	/	TRUE	1691030008	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1691030008	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1683264546	profilesNewSession	0

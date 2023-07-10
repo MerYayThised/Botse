@@ -1,0 +1,11 @@
+www.netflix.com	TRUE	/	TRUE	1693750993	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1711030993	dsca	anonymous
+.netflix.com	TRUE	/	TRUE	1708006997	nfvdid	BQFmAAEBENXqHGFRAcza9VsYGZ7A4HNg8Cil_LXXG53gzwJOlC5xQSVHs16flsqFQvK6NbC7J_SL57CseOBLPIcMjvyI1lzMYEDr5TQhnqk_ok9boX0NydLPCamjIqs_fODQblXdaw-dkYrgnryuwbbimxnUkyhm
+.netflix.com	FALSE	/	FALSE	1708188918	NetflixId	ct%3DBQAOAAEBENyQ5uk3MhhQsWdAVv_kQmyB8LpSIP4TbjU7JZ0Yh1-uHYmhMOvdnG1QejSSz2IoGOcecENCktWkCqhOEnCzSmOe9cMegyz3dkLdkQXWPQWDTrVweRzqZLk-TX_EirdjYkvsItafeOtN7PZNpmtijBmN-9xE25nBFfRs5abI1bluvTFg8fwaDXx6ZQBOBBM8eqvibbJCnPTLe5gpUL4IZCPRJ-pN4oJ2V2f-50PR3ws5KXhWVsD9R_5827lAc7t4M2uQ64ZLdeEibSeOszDDsz51gQWW2c-xvdgy8m4a9E5ISQ6gSwHAEqlxVeFKL5jn4ShnKro7HYOUhBONME28PCGL_8TQrWtZmn5Vu-RAvPOzPNHbItFo5XbGHTBcUAyw1_mgLDvRVcpUf9kc5SWFxqUqphBtptErI8eukMMrTKmRusi3V9MUcHRO__nLIlb-C0k2_Xh5LNwzkyhmPYX3ne4myMrSiNnIZCcL6nOfSjCxa0xRm_KhLxhYZpoE9SQl44EllMaXhWLhZaxI7GkBtrXj-F40Bq7zAyK_tD5Jsokn-lYXF8ftdSV5Eucs9wdGdZvT65gg4p8mHEiOghW23qHg9PnqZ19pB6WadINjHCfWLdG8-9VkGOCsajo-uX6TEARFAZ-ayPtpYg7UBOSFLxNboyIyux565nyYtxmmsWr0eaw.%26bt%3Ddbl%26ch%3DAQEAEAABABQVdVKzjYEloa6jKwYE1WwwH0KNgqGMeOI.%26v%3D2%26mac%3DAQEAEAABABTViSih37DY5bDJECAdC52vfO5R3AfxuY8.
+.netflix.com	TRUE	/	TRUE	1708188922	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+17+2023+21%3A55%3A22+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=f02e9e74-2046-4418-b392-2898be921245&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1708188918	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQCSYbmK9JcpqIXepih0hu1El0MbypMkXM.%26dt%3D1676660118059
+.netflix.com	TRUE	/	TRUE	1676663718	flwssn	ae02484e-be57-4b9f-bc2b-72d3dffaaf81
+.netflix.com	TRUE	/	TRUE	1684428920	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1684428920	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1684428920	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1708196715	memclid	e9e7a06a-cea3-4270-ad12-554d2f717da3
